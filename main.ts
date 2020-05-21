@@ -1,5 +1,5 @@
 class Checker {
-  setButton(buttonValue) {
+  setButton(buttonValue: int) {
     this.buttonCounter = buttonValue
   }
   
